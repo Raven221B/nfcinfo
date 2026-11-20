@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Martinez;Mark;;;
+FN:Mark Martinez
+ORG:Altovisio Solutions
+TITLE:Business Solutions
+EMAIL;TYPE=WORK:admin@altovisiosolutions.com
+EMAIL;TYPE=WORK:admin@altovisiogrowth.com
+URL:https://altovisiosolutions.com/
+item1.URL:https://www.facebook.com/profile.php?id=61596423351779
+item1.X-ABLabel:Facebook
+NOTE:Altovisio Solutions | Altovisio Marketing & Growth Solutions
+END:VCARD
